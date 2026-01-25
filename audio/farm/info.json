@@ -83,5 +83,131 @@
             }
         ]
     },
+    "fr-FR": {
+        "title": "Ferme",
+        "description": "Une ferme avec des animaux",
+        "files": [
+            {
+                "name": "233129__jarredgibb__cow-moo-2-96khz.wav",
+                "title": "Vache",
+                "licence": "CC0",
+                "source": "https://freesound.org/people/jarredgibb/sounds/233129/"
+            },
+            {
+                "name": "731671__liran1601__sheep-sound-effect.mp3",
+                "title": "Mouton",
+                "licence": "CC0",
+                "source": "https://freesound.org/people/liran1601/sounds/731671/"
+            },
+            {
+                "name": "233179__jarredgibb__pig-multiple-snorts-6-2-pigs-96khz.wav",
+                "title": "Cochon",
+                "licence": "CC0",
+                "source": "https://freesound.org/people/JarredGibb/sounds/233179/"
+            },
+            {
+                "name": "316921__rudmer_rotteveel__chicken-alarm-call-full-with-occasional-bird-sound.wav",
+                "title": "Poulet",
+                "licence": "CC0",
+                "source": "https://freesound.org/people/rudmer_rotteveel/sounds/316921/"
+            },
+            {
+                "name": "435508__benjaminnelan__rooster-crow-1.wav",
+                "title": "Coq",
+                "licence": "CC0",
+                "source": "https://freesound.org/people/BenjaminNelan/sounds/435508/"
+            },
+            {
+                "name": "667460__sieuamthanh__de-0.wav",
+                "title": "Chèvre",
+                "licence": "CC0",
+                "source": "https://freesound.org/people/SieuAmThanh/sounds/667460/"
+            }
+        ]
+    },
+    "es-ES": {
+        "title": "Granja",
+        "description": "Una granja con animales",
+        "files": [
+            {
+                "name": "233129__jarredgibb__cow-moo-2-96khz.wav",
+                "title": "Vaca",
+                "licence": "CC0",
+                "source": "https://freesound.org/people/jarredgibb/sounds/233129/"
+            },
+            {
+                "name": "731671__liran1601__sheep-sound-effect.mp3",
+                "title": "Oveja",
+                "licence": "CC0",
+                "source": "https://freesound.org/people/liran1601/sounds/731671/"
+            },
+            {
+                "name": "233179__jarredgibb__pig-multiple-snorts-6-2-pigs-96khz.wav",
+                "title": "Cerdo",
+                "licence": "CC0",
+                "source": "https://freesound.org/people/JarredGibb/sounds/233179/"
+            },
+            {
+                "name": "316921__rudmer_rotteveel__chicken-alarm-call-full-with-occasional-bird-sound.wav",
+                "title": "Pollo",
+                "licence": "CC0",
+                "source": "https://freesound.org/people/rudmer_rotteveel/sounds/316921/"
+            },
+            {
+                "name": "435508__benjaminnelan__rooster-crow-1.wav",
+                "title": "Gallo",
+                "licence": "CC0",
+                "source": "https://freesound.org/people/BenjaminNelan/sounds/435508/"
+            },
+            {
+                "name": "667460__sieuamthanh__de-0.wav",
+                "title": "Cabra",
+                "licence": "CC0",
+                "source": "https://freesound.org/people/SieuAmThanh/sounds/667460/"
+            }
+        ]
+    },
+    "it-IT": {
+        "title": "Fattoria",
+        "description": "Una fattoria con animali",
+        "files": [
+            {
+                "name": "233129__jarredgibb__cow-moo-2-96khz.wav",
+                "title": "Mucca",
+                "licence": "CC0",
+                "source": "https://freesound.org/people/jarredgibb/sounds/233129/"
+            },
+            {
+                "name": "731671__liran1601__sheep-sound-effect.mp3",
+                "title": "Pecora",
+                "licence": "CC0",
+                "source": "https://freesound.org/people/liran1601/sounds/731671/"
+            },
+            {
+                "name": "233179__jarredgibb__pig-multiple-snorts-6-2-pigs-96khz.wav",
+                "title": "Maiale",
+                "licence": "CC0",
+                "source": "https://freesound.org/people/JarredGibb/sounds/233179/"
+            },
+            {
+                "name": "316921__rudmer_rotteveel__chicken-alarm-call-full-with-occasional-bird-sound.wav",
+                "title": "Pollo",
+                "licence": "CC0",
+                "source": "https://freesound.org/people/rudmer_rotteveel/sounds/316921/"
+            },
+            {
+                "name": "435508__benjaminnelan__rooster-crow-1.wav",
+                "title": "Gallo",
+                "licence": "CC0",
+                "source": "https://freesound.org/people/BenjaminNelan/sounds/435508/"
+            },
+            {
+                "name": "667460__sieuamthanh__de-0.wav",
+                "title": "Capra",
+                "licence": "CC0",
+                "source": "https://freesound.org/people/SieuAmThanh/sounds/667460/"
+            }
+        ]
+    },
     "version": "1.0.0"
 }
