@@ -1,7 +1,7 @@
 {
     "de-DE": {
-        "title": "Ambient-Lieder",
-        "description": "Freie Ambient-Lieder",
+        "title": "Hintergrundlieder",
+        "description": "Freie Lieder für den Hintergrund",
         "files": [
             {
                 "name": "ambient alchemy test.mp3",
@@ -27,8 +27,8 @@
         ]
     },
     "en-US": {
-        "title": "Ambient Songs",
-        "description": "Free ambient songs",
+        "title": "Background Songs",
+        "description": "Free songs for the background",
         "files": [
             {
                 "name": "ambient alchemy test.mp3",
@@ -54,8 +54,8 @@
         ]
     },
     "fr-FR": {
-        "title": "Chansons ambiantes",
-        "description": "Chansons ambiantes gratuites",
+        "title": "Chansons d'arrière-plan",
+        "description": "Chansons gratuites pour l'arrière-plan",
         "files": [
             {
                 "name": "ambient alchemy test.mp3",
@@ -81,8 +81,8 @@
         ]
     },
     "es-ES": {
-        "title": "Canciones ambientales",
-        "description": "Canciones ambientales gratuitas",
+        "title": "Canciones de fondo",
+        "description": "Canciones gratuitas para el fondo",
         "files": [
             {
                 "name": "ambient alchemy test.mp3",
@@ -108,8 +108,8 @@
         ]
     },
     "it-IT": {
-        "title": "Canzoni ambientali",
-        "description": "Canzoni ambientali gratuite",
+        "title": "Canzoni di sottofondo",
+        "description": "Canzoni gratuite per lo sfondo",
         "files": [
             {
                 "name": "ambient alchemy test.mp3",
