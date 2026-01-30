@@ -1,0 +1,138 @@
+{
+    "de-DE": {
+        "title": "Ambient-Lieder",
+        "description": "Freie Ambient-Lieder",
+        "files": [
+            {
+                "name": "ambient alchemy test.mp3",
+                "title": "Ambient Alchemy Test",
+                "licence": "CC BY 3.0",
+                "source": "https://soundcloud.com/julfo/alchemy-test-ambient",
+                "author": "https://soundcloud.com/julfo"
+            },
+            {
+                "name": "Guitar doodle.wav",
+                "title": "Guitar Doodle",
+                "licence": "CC BY 3.0",
+                "source": "https://soundcloud.com/alcaknight/ambient-guitar-doodle",
+                "author": "https://soundcloud.com/alcaknight"
+            },
+            {
+                "name": "Ambient Melody.wav",
+                "title": "Ambient Melody",
+                "licence": "CC BY 3.0",
+                "source": "https://soundcloud.com/cheshireson/ambient-melody",
+                "author": "https://soundcloud.com/cheshireson"
+            }
+        ]
+    },
+    "en-US": {
+        "title": "Ambient Songs",
+        "description": "Free ambient songs",
+        "files": [
+            {
+                "name": "ambient alchemy test.mp3",
+                "title": "Ambient Alchemy Test",
+                "licence": "CC BY 3.0",
+                "source": "https://soundcloud.com/julfo/alchemy-test-ambient",
+                "author": "https://soundcloud.com/julfo"
+            },
+            {
+                "name": "Guitar doodle.wav",
+                "title": "Guitar Doodle",
+                "licence": "CC BY 3.0",
+                "source": "https://soundcloud.com/alcaknight/ambient-guitar-doodle",
+                "author": "https://soundcloud.com/alcaknight"
+            },
+            {
+                "name": "Ambient Melody.wav",
+                "title": "Ambient Melody",
+                "licence": "CC BY 3.0",
+                "source": "https://soundcloud.com/cheshireson/ambient-melody",
+                "author": "https://soundcloud.com/cheshireson"
+            }
+        ]
+    },
+    "fr-FR": {
+        "title": "Chansons ambiantes",
+        "description": "Chansons ambiantes gratuites",
+        "files": [
+            {
+                "name": "ambient alchemy test.mp3",
+                "title": "Ambient Alchemy Test",
+                "licence": "CC BY 3.0",
+                "source": "https://soundcloud.com/julfo/alchemy-test-ambient",
+                "author": "https://soundcloud.com/julfo"
+            },
+            {
+                "name": "Guitar doodle.wav",
+                "title": "Guitar Doodle",
+                "licence": "CC BY 3.0",
+                "source": "https://soundcloud.com/alcaknight/ambient-guitar-doodle",
+                "author": "https://soundcloud.com/alcaknight"
+            },
+            {
+                "name": "Ambient Melody.wav",
+                "title": "Ambient Melody",
+                "licence": "CC BY 3.0",
+                "source": "https://soundcloud.com/cheshireson/ambient-melody",
+                "author": "https://soundcloud.com/cheshireson"
+            }
+        ]
+    },
+    "es-ES": {
+        "title": "Canciones ambientales",
+        "description": "Canciones ambientales gratuitas",
+        "files": [
+            {
+                "name": "ambient alchemy test.mp3",
+                "title": "Ambient Alchemy Test",
+                "licence": "CC BY 3.0",
+                "source": "https://soundcloud.com/julfo/alchemy-test-ambient",
+                "author": "https://soundcloud.com/julfo"
+            },
+            {
+                "name": "Guitar doodle.wav",
+                "title": "Guitar Doodle",
+                "licence": "CC BY 3.0",
+                "source": "https://soundcloud.com/alcaknight/ambient-guitar-doodle",
+                "author": "https://soundcloud.com/alcaknight"
+            },
+            {
+                "name": "Ambient Melody.wav",
+                "title": "Ambient Melody",
+                "licence": "CC BY 3.0",
+                "source": "https://soundcloud.com/cheshireson/ambient-melody",
+                "author": "https://soundcloud.com/cheshireson"
+            }
+        ]
+    },
+    "it-IT": {
+        "title": "Canzoni ambientali",
+        "description": "Canzoni ambientali gratuite",
+        "files": [
+            {
+                "name": "ambient alchemy test.mp3",
+                "title": "Ambient Alchemy Test",
+                "licence": "CC BY 3.0",
+                "source": "https://soundcloud.com/julfo/alchemy-test-ambient",
+                "author": "https://soundcloud.com/julfo"
+            },
+            {
+                "name": "Guitar doodle.wav",
+                "title": "Guitar Doodle",
+                "licence": "CC BY 3.0",
+                "source": "https://soundcloud.com/alcaknight/ambient-guitar-doodle",
+                "author": "https://soundcloud.com/alcaknight"
+            },
+            {
+                "name": "Ambient Melody.wav",
+                "title": "Ambient Melody",
+                "licence": "CC BY 3.0",
+                "source": "https://soundcloud.com/cheshireson/ambient-melody",
+                "author": "https://soundcloud.com/cheshireson"
+            }
+        ]
+    },
+    "version": "1.0.0"
+}
